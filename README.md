@@ -1,22 +1,23 @@
 # practBranchMerge-pkikl
 
 ### Project description: 
-Introduction/Project summary 
+Practise creating branches and merging them. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2020f1.15, Visual Studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+![screenshot](https://user-images.githubusercontent.com/72299690/111986121-d2a81a80-8b0d-11eb-8cf8-02095593f71c.jpg)
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Tutorial:
+https://git-scm.com/book/de/v2/Git-Branching-Einfaches-Branching-und-Merging
 
 ### Project state: 
 incl. progress in percent
@@ -24,5 +25,6 @@ incl. progress in percent
 ### Limitations: 
 
 ### Lessons Learned: 
+creating branches and merging them. 
 
 Copyright by Peter Kikl
